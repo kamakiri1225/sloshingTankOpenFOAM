@@ -1,0 +1,3 @@
+#includeEtc    "caseDicts/postProcessing/numerical/solverInfo.cfg";
+fields    (".*");
+region    region0;
